@@ -1,4 +1,4 @@
-num = int(input("Enter the number : "))
+num = int(input("Enter the number : "))         # user input
 temp = num                                      # temp store the number given by the user
 rev = 0                                         # variable to store the reverse of the string
 while num != 0:                                 # loop ( While )
