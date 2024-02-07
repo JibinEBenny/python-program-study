@@ -8,3 +8,10 @@ if temp == rev:                                 # compare both number
  print(temp, "--> Number is palindrome")
 else:
  print(temp, "--> Not palindrome")
+
+
+# <====OUTPUT====>
+# Enter the number : 525
+# 525 --> Number is palindrome
+# Enter the number : 122
+# 122 --> Not palindrome

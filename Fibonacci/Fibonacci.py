@@ -6,3 +6,7 @@ for i in range(0,num-1,1):       # to loop within the range
     fib.append(sum)              # for appending to the list
 
 print("The top "+str(num)+" numbers of Fibonacci series is : ",fib)
+
+# <====OUTPUT====>
+# Enter the length of Fibonacci sereis : 20
+# The top 20 numbers of Fibonacci series is :  [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765]
