@@ -5,3 +5,8 @@ rev = 10 * rev + rem                        # to reverse the string
 num = num // 10                             # the '//' is used because the division should be floor
 
 2. palindrome number using slicing 
+
+temp = str(num)                                 # number to string
+#print(type(temp))
+rev = temp[::-1]                                # reversing using slicing [start:stop:increment]
+#print(type(rev))
