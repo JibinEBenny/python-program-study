@@ -12,14 +12,14 @@
 
 
 
-**1.Paliandrome number by reversing the number**
+**1. Paliandrome number by reversing the number**
 
 ```python 
 * rem = num % 10                              # to get the reminder of the number given by the user
 * rev = 10 * rev + rem                        # to reverse the string
 * num = num // 10                             # the '//' is used because the division should be floor
 ```
-**2.Palindrome number using slicing**
+**2. Palindrome number using slicing**
 
 ```python 
 * temp = str(num)                                 # number to string
